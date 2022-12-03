@@ -28,7 +28,7 @@ def saveAsImages(name):
             for j in range(size):
                 pixels[i,j] = colors[populations[index][i][j]]
         img = img.resize((20*size,20*size), Image.Resampling.NEAREST)
-        img.save('C:/amaia/'+name+str(index)+'.png')
+        img.save('C:/geneticAlgorithmImages/'+name+str(index)+'.png')
 
 #calculateFitness
 def calculateFitness() :
