@@ -3,7 +3,7 @@ This AI project uses a genetic algorithm to optimally color a checkerboard, ensu
 
 # Code Explanation
 
-1. Set up parameters: <b>error</b>, <b>size</b>, <b>samples</b>, <b>numberOfColors</b> are used to control the checkerboard's size, the number of samples, the number of colors, and to track errors. An initial population is created with <b>populations</b>, a 4x8x8 list of lists where each element is a random number between 0 and <b>numberOfColors</b>.
+1. Parameters: <b>error</b>, <b>size</b>, <b>samples</b>, <b>numberOfColors</b> are used to control the checkerboard's size, the number of samples, the number of colors, and to track errors. An initial population is created with <b>populations</b>, a 4x8x8 list of lists where each element is a random number between 0 and <b>numberOfColors</b>.
 
 2. Helper functions:
 <ul>
