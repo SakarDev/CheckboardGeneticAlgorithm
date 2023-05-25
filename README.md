@@ -3,7 +3,7 @@
 - We are given an n by n checkerboard, in which every square can be one of four distinct colors.
 - The goal is to arrange the colors on the checkerboard such that no two adjacent squares have the same color, considering only row-wise and column-wise adjacency (not diagonal).
 - This repository accomplishes this task using a genetic algorithm.
-  <img alt="Checkboard example that is fixed using genetic algorithm" src="https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/checkboardExplanation.png" />
+<img alt="Checkboard example that is fixed using genetic algorithm" src="https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/checkboardExplanation.png" />
 
 # Code Explanation
 
