@@ -30,7 +30,7 @@ The execution loop in this program continues until it produces an output where n
 
 | ![Input 0](https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/original-0.png) | ![Input 1](https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/original-1.png) | ![Input 2](https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/original-2.png) | ![Input 3](https://raw.githubusercontent.com/SakarDev/CheckboardGeneticAlgorithm/master/original-3.png) |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **output-0.png** Guaranteed to have no adjacent squares share the same color                            | **output-1.png** May or may not have adjacent squares sharing the same color                            | **output-2.png** adjacent squares are more likely to share the same color compared to output-1          | **output-3.png** adjacent squares are more likely to share the same color compared to output-2          |
+| **input-0.png** randomly generated population                            | **input-1.png** randomly generated population                            | **input-2.png** randomly generated population          | **input-3.png** randomly generated population          |
 
 ## Output popluation:
 
